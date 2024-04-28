@@ -1,0 +1,13 @@
+Chip 20
+Hi 20
+14 13
+Tung 12
+An 11
+Son 11
+Hai 10
+Noname 10
+Noname 6
+Tung 5
+Ha 4
+Noname 1
+Noname 1
